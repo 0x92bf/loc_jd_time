@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Loc Jd time</string>
+    <string name="edit_message">输入文字</string>
+    <string name="button_send">发送</string>
+    <string name="button_gettime">获取时间</string>
+</resources>
